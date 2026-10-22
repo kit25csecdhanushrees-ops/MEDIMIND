@@ -1,0 +1,6 @@
+{
+  "name": "MediMind",
+  "description": "Medicine reminder and real-time drug interaction checker with openFDA search and Gemini AI clinical explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

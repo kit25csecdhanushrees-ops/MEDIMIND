@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MediMind</string>
+    <string name="nav_today">Today</string>
+    <string name="nav_medicines">Medicines</string>
+    <string name="nav_interactions">Interactions</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_assistant">Assistant</string>
+    <string name="medical_disclaimer">This app provides information only and is not a substitute for professional medical advice. Always consult your doctor or pharmacist before changing any medication.</string>
+    <string name="severe_warning_title">Critical Interaction Detected</string>
+    <string name="severe_warning_subtitle">Please contact your healthcare provider immediately. Never stop or adjust prescription dosages without medical supervision.</string>
+</resources>
